@@ -19,8 +19,7 @@ This repository contains a simple **ASP.NET Web Forms** application demonstratin
 - Server-side validation
 
 ## 🖥️ Screenshots
-![Screenshot.png](<https://media-hosting.imagekit.io/7197e5a7cdfb408d/Screenshot 2025-04-04 221856.png?Expires=1838393559&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=o972IEFgRM0BRUAeurrMZDbpG1mCePLdOPvAREoH-Ps8IMdG8qFF1nwp5~ozMmN827mT9Mf~RpcbRhi8tnKx-IlQm7aG4WcZk221TGpT69XATiMdYWgHF2fWc8lzab~p0Sr8~VwBIS0TmgDKgAPxFgLETNS4b2-8rfgYQO287p9dl42FltqrmcD5by3A0NmpU-1MDs5IxAnL8eD5GXpHL3OhgFb6DecbvwrWshft6CSdQyd33rpgRpODQj2QhfGvCUotG9dKqSPcEx7peiAc8LVtbOwdHCgkXpQe33pCmqV-q8o9pfQbdM393YdUACXA2tgw9K9vzGUc9HcXu4M6cg__>)
-
+![Screenshot.png](<https://media-hosting.imagekit.io/464c951975ea411f/Screenshot%202025-04-04%20222846.png?Expires=1838393946&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=Kio1B2tP4frdjsZ0J3yM49wpxlowlosyRn1Y~QwmiUcpvZpcEmwFL~SHOK2QXoI4CJbXR~yEAKcXw45KT13SMfzv3b1YLSkgd0YfWigGnYNO1e7p1Ni65cr5aWoLGodlBOh6K~DoGvqw6JhqwqCXkQYDrd6NRiueravtE5~YS5aZb9X74qZZPdaQh93~yMV1c4KnNH~ociAPC03NC5treRCEC0XkVtb4VXZ1BQVZ4HQA1~zshbUPQitxU9KOck9mdO2CEq1yLDAYi4j9HCHYlMePX6HXHsQbyJYg7OqoCwsf5p7UDV5HRiSTuV60QLT7cf3UEj-gaJ7VixGtLclTMg__>)
 ## 📂 Project Structure
 
 - `Default.aspx` – Main page with GridView and CRUD form
